@@ -1,0 +1,13 @@
+.footer-section {
+    background-color: #536171;
+    margin-top: 280px;
+    padding: 4rem 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-section p {
+    color: snow;
+    font-family: "Bebas Neue", sans-serif;
+}

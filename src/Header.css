@@ -1,0 +1,35 @@
+header {
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 77;
+    background-color: #536171;
+}
+
+.navigation {
+    width: 600px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-list a {
+    font-family: "Bebas Neue", sans-serif;
+    position: relative;
+    font-size: 1.5rem;
+    color: #fff;
+    font-weight: 500;
+}
